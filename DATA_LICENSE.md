@@ -1,7 +1,8 @@
 # Data license
 
-The normalized simulation datasets in `data/main-study/` and `data/ablation/`,
-together with derived tables in `results/`, are made available under the
+The experimental datasets in `data/main-study/`, `data/ablation/`, and
+`data/robot/`, together with the derived tables in `results/`, are made
+available under the
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 (CC BY 4.0).
 
@@ -13,9 +14,3 @@ Suggested attribution:
 
 The source code is licensed separately under the BSD 3-Clause license in
 `LICENSE`. Third-party OMPL.app scenes and resources are not redistributed.
-
-Robot-trial records are not covered for public release until all relevant
-co-authors and collaborators have granted permission. The export tool requires an
-explicit permission-confirmation flag before it writes those records into the
-repository; after authorization, record the approval date and rights holders in
-`DATA_AVAILABILITY.md` before publishing.
