@@ -34,6 +34,11 @@ The checker validates row counts, run identifiers, outcome fields, target-hit
 statistics, confidence intervals, robot-stage totals, and the reported
 main-study, ablation, and robot summaries.
 
+## Archival record
+
+Version 1 of this dataset is permanently archived on Zenodo:
+https://doi.org/10.5281/zenodo.22143312
+
 ## License
 
 The released data are distributed under CC BY 4.0 as stated in
