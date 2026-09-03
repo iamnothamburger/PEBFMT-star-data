@@ -19,8 +19,6 @@ retained in the data; `PEBFMT*` is the corresponding manuscript-facing name.
 Failed, timed-out, approximate-only, and target-non-reaching runs remain in the
 released tables.
 
-Raw benchmark logs, build logs, host information, local paths, and compiled
-files are not included.
 
 ## Verify the experimental data
 
